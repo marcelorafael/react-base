@@ -28,5 +28,6 @@ module.exports = {
     'react/react-in-jsx-scope': 0,
     "import/newline-after-import": 0,
     "import/order": 0,
+    "no-unused-vars": 0,
   },
 };
